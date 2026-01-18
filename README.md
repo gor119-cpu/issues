@@ -1,4 +1,4 @@
-**About the task**
+.**About the task**
 
 The goal of the contest is to use manual testing to find significant bugs in products in the TON ecosystem.
 
